@@ -4,8 +4,11 @@ The Sales Dashboard provides a comprehensive view of retail performance, enablin
 🛠 Tech Stack
 
 Excel / Pivot Tables – for data aggregation and reporting
+
 Power BI - for dashboard
+
 SQL- Data clening and Data validation
+
 Data Analysis Techniques – Total sales, Avg. Sales, metrics
 
 
