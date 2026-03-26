@@ -32,6 +32,6 @@ Got it 👍 Since the file is too large to process directly, I’ll give you a s
 
 ---
 Screenshots / Demos
-Show what the dashboard looks like. - [Alt text](https://github.com/HartiMegha/Sales-Dashboard/blob/main/Blink%20It.png)
-[Alt Text](https://github.com/HartiMegha/Sales-Dashboard/blob/main/Blink%20It_02.png)
+Show what the dashboard looks like. - ![Alt text](https://github.com/HartiMegha/Sales-Dashboard/blob/main/Blink%20It.png)
+![Alt Text](https://github.com/HartiMegha/Sales-Dashboard/blob/main/Blink%20It_02.png)
 
